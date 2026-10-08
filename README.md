@@ -2,7 +2,8 @@
 
 ## 1. Deskripsi Singkat Program
 
-![Screenshot Menu Program](screenshot/menu.png)
+<img width="400" height="147" alt="gambar" src="https://github.com/user-attachments/assets/4ea8ce2e-fa70-4a9d-a584-fce3ff4a4ba9" />
+
 
 Program ini adalah aplikasi console berbasis Java untuk mengelola penyewaan lapangan padel. Tujuannya membantu pengelola mencatat data lapangan, data peralatan (raket dan bola), dan transaksi penyewaan agar lebih rapi dibanding pencatatan manual.
 
@@ -15,7 +16,8 @@ Fitur program:
 
 ## 2. Penjelasan Struktur Package
 
-![Screenshot Struktur Package](screenshot/package.png)
+<img width="280" height="291" alt="gambar" src="https://github.com/user-attachments/assets/ebee01ac-8755-479a-9403-7578cde1e970" />
+
 
 Program memakai struktur MVC (Model, View, Controller):
 
